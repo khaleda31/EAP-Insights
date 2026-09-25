@@ -1,1 +1,0 @@
-You can delete this folder from your project.
